@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "814375010955",
+    "firebase_url": "https://my-awesome-project-b27ae.firebaseio.com",
+    "project_id": "my-awesome-project-b27ae",
+    "storage_bucket": "my-awesome-project-b27ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814375010955:android:967deb918f188807",
+        "android_client_info": {
+          "package_name": "com.example.a1mf08.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814375010955-8dmfpd8d9afb7415k24oi3755mg3l56n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnKTCloag6u8tR7n4yJS_Xpkf3NrnZSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814375010955:android:ab7aafdffef72d0a",
+        "android_client_info": {
+          "package_name": "duck.my.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814375010955-8dmfpd8d9afb7415k24oi3755mg3l56n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnKTCloag6u8tR7n4yJS_Xpkf3NrnZSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814375010955:android:ee85c5bb182782f8",
+        "android_client_info": {
+          "package_name": "com.nya.nyanpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814375010955-735qbfae4v2gd6d0u0o6q6v1qogggcgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nya.nyanpass",
+            "certificate_hash": "86f86cb7c19b0c6f8d7b7922794e258bb9d83a71"
+          }
+        },
+        {
+          "client_id": "814375010955-8dmfpd8d9afb7415k24oi3755mg3l56n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnKTCloag6u8tR7n4yJS_Xpkf3NrnZSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814375010955-8dmfpd8d9afb7415k24oi3755mg3l56n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
